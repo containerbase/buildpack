@@ -63,6 +63,7 @@ jobs:
           [
             dotnet,
             erlang,
+            flutter,
             golang,
             java,
             helm,
